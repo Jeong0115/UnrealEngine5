@@ -1,0 +1,20 @@
+[
+    {
+        "Key"           : 1000,
+        "Name"          : "LoginStage",
+        "VillagePos"    : "1650.00_1480.00_88.00",
+        "SpawnGroupKey" : "1000"
+    },
+    {
+        "Key"           : 1001,
+        "Name"          : "Stage1",
+        "VillagePos"    : "1650.00_1480.00_88.00",
+        "SpawnGroupKey" : "0 1 2 3 4 5 6 7 8"
+    },
+    {
+        "Key"           : 1002,
+        "Name"          : "Stage2",
+        "VillagePos"    : "1650.00_1480.00_88.00",
+        "SpawnGroupKey" : "2000"
+    }
+]

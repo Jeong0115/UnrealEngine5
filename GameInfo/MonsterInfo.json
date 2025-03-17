@@ -1,0 +1,102 @@
+[
+    {
+        "Key"           : 0,
+        "Name"          : "그림자 하수인",
+        "AssetPath"     : "/Game/Monster/Minion/BP_Minion.BP_Minion_C",
+        "Level"         : 5,
+        "Health"        : 150,
+        "AttackDamage"  : 10,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 1,
+        "Name"          : "청백 그림자 하수인",
+        "AssetPath"     : "/Game/Monster/LaneMelee/BP_LaneMeleeA.BP_LaneMeleeA_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 2,
+        "Name"          : "백색 그림자 하수인",
+        "AssetPath"     : "/Game/Monster/LaneMelee/BP_LaneMeleeB.BP_LaneMeleeB_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 3,
+        "Name"          : "청색 그림자 하수인",
+        "AssetPath"     : "/Game/Monster/LaneMelee/BP_LaneMeleeC.BP_LaneMeleeC_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 4,
+        "Name"          : "흑색 그림자 하수인",
+        "AssetPath"     : "/Game/Monster/LaneMelee/BP_LaneMeleeD.BP_LaneMeleeD_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 5,
+        "Name"          : "청백 그림자 부관",
+        "AssetPath"     : "/Game/Monster/LaneSuper/BP_LaneSuperA.BP_LaneSuperA_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 6,
+        "Name"          : "백색 그림자 부관",
+        "AssetPath"     : "/Game/Monster/LaneSuper/BP_LaneSuperB.BP_LaneSuperB_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 7,
+        "Name"          : "청색 그림자 부관",
+        "AssetPath"     : "/Game/Monster/LaneSuper/BP_LaneSuperC.BP_LaneSuperC_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 8,
+        "Name"          : "흑색 그림자 부관",
+        "AssetPath"     : "/Game/Monster/LaneSuper/BP_LaneSuperD.BP_LaneSuperD_C",
+        "Level"         : 20,
+        "Health"        : 200,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1
+    },
+    {
+        "Key"           : 1000,
+        "Name"          : "보스 몬스터",
+        "AssetPath"     : "/Game/Monster/Boss/BP_Boss.BP_Boss_C",
+        "Level"         : 99,
+        "Health"        : 1500,
+        "AttackDamage"  : 20,
+        "AIMoveRadius"  : 200.0,
+        "DropGroupKey"  : 1000
+    }
+]

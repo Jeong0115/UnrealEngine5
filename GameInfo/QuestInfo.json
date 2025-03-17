@@ -1,0 +1,162 @@
+[
+    {
+        "Key"               : 1000,
+        "PrevKey"           : 0,
+        "Name"              : "메인 퀘스트 1",
+        "Desc"              : "그림자 하수인을 사냥하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 0 10",
+        "Reward"            : "AcceptQuest_1001 GiveItem_0_100"
+    },
+    {
+        "Key"               : 1001,
+        "PrevKey"           : 1000,
+        "Name"              : "메인 퀘스트 2",
+        "Desc"              : "청백 그림자 하수인을 사냥하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 1 10",
+        "Reward"            : "AcceptQuest_1002 GiveItem_0_200"
+    },
+    {
+        "Key"               : 1002,
+        "PrevKey"           : 1001,
+        "Name"              : "메인 퀘스트 3",
+        "Desc"              : "백색 그림자 하수인을 사냥하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 2 10",
+        "Reward"            : "AcceptQuest_1003 GiveItem_0_300"
+    },
+    {
+        "Key"               : 1003,
+        "PrevKey"           : 1002,
+        "Desc"              : "청색 그림자 하수인을 사냥하세요",
+        "Name"              : "메인 퀘스트 4",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 3 10",
+        "Reward"            : "AcceptQuest_1004 GiveItem_0_400"
+    },
+    {
+        "Key"               : 1004,
+        "PrevKey"           : 1003,
+        "Name"              : "메인 퀘스트 5",
+        "Desc"              : "흑색 그림자 하수인을 사냥하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 4 10",
+        "Reward"            : "AcceptQuest_1005 GiveItem_0_500"
+    },
+    {
+        "Key"               : 1005,
+        "PrevKey"           : 1004,
+        "Name"              : "메인 퀘스트 6",
+        "Desc"              : "청백 그림자 부관을 사냥하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 5 10",
+        "Reward"            : "AcceptQuest_1006 GiveItem_0_600"
+    },
+    {
+        "Key"               : 1006,
+        "PrevKey"           : 1005,
+        "Name"              : "메인 퀘스트 7",
+        "Desc"              : "백색 그림자 부관을 사냥하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 6 10",
+        "Reward"            : "AcceptQuest_1007 GiveItem_0_700"
+    },
+    {
+        "Key"               : 1007,
+        "PrevKey"           : 1006,
+        "Desc"              : "청색 그림자 부관을 사냥하세요",
+        "Name"              : "메인 퀘스트 8",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 7 10",
+        "Reward"            : "AcceptQuest_1008 GiveItem_0_800"
+    },
+    {
+        "Key"               : 1008,
+        "PrevKey"           : 1007,
+        "Desc"              : "흑색 그림자 부관을 사냥하세요",
+        "Name"              : "메인 퀘스트 9",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 8 10",
+        "Reward"            : " GiveItem_0_900"
+    },
+    {
+        "Key"               : 2000,
+        "PrevKey"           : 0,
+        "Name"              : "반복 사냥 퀘스트",
+        "Desc"              : "그림자 하수인을 사냥하세요",
+        "QuestType"         : 1,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "KillMonster 0 10",
+        "Reward"            : "GiveItem_0_100"
+    },
+    {
+        "Key"               : 3000,
+        "PrevKey"           : 0,
+        "Name"              : "반복 사용 퀘스트",
+        "Desc"              : "은빛 광석을 사용하세요",
+        "QuestType"         : 1,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "UseItem 0 10000",
+        "Reward"            : "GiveItem_4_1"
+    },
+    {
+        "Key"               : 4000,
+        "PrevKey"           : 0,
+        "Name"              : "사이드 퀘스트 1",
+        "Desc"              : "은빛 광석을 획득하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "GetItem 0 100",
+        "Reward"            : "AcceptQuest_4001 GiveItem_2_5"
+    },
+    {
+        "Key"               : 4001,
+        "PrevKey"           : 0,
+        "Name"              : "사이드 퀘스트 2",
+        "Desc"              : "은빛 광석을 획득하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "GetItem 0 500",
+        "Reward"            : "AcceptQuest_4002 GiveItem_2_10"
+    },
+    {
+        "Key"               : 4002,
+        "PrevKey"           : 0,
+        "Name"              : "사이드 퀘스트 3",
+        "Desc"              : "은빛 광석을 획득하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "GetItem 0 1000",
+        "Reward"            : "AcceptQuest_4003 GiveItem_2_20"
+    },
+    {
+        "Key"               : 4003,
+        "PrevKey"           : 0,
+        "Name"              : "사이드 퀘스트 4",
+        "Desc"              : "은빛 광석을 획득하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "GetItem 0 5000",
+        "Reward"            : "AcceptQuest_4004 GiveItem_3_5"
+    },
+    {
+        "Key"               : 4004,
+        "PrevKey"           : 0,
+        "Name"              : "사이드 퀘스트 5",
+        "Desc"              : "은빛 광석을 획득하세요",
+        "QuestType"         : 0,
+        "AcceptCondition"   : "",
+        "ClearCondition"    : "GetItem 0 10000",
+        "Reward"            : "GiveItem_3_10"
+    }
+]

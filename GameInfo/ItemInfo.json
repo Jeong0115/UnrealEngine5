@@ -1,0 +1,56 @@
+[
+    {
+        "Key"           : 0,
+        "Name"          : "은빛 광석",
+        "Desc"          : "은은한 빛을 띄고 있는 광석이다. 상점에서 물건을 구입할 때 사용된다.",
+        "MaxStack"      : 999,
+        "UseFunc"       : "",
+        "CanUseInven"   : false,
+        "IconPath"      : "/Game/Assets/Icon/86021.86021"
+    },  
+    {   
+        "Key"           : 1,
+        "Name"          : "하급 포션",
+        "Desc"          : "붉은색 빛을 띄고 있다. 사용 시 체력을 50 회복한다.",
+        "MaxStack"      : 20,
+        "UseFunc"       : "UseLowGradePotion",
+        "CanUseInven"   : true,
+        "IconPath"      : "/Game/Assets/Icon/48186.48186"
+    },  
+    {   
+        "Key"           : 2,
+        "Name"          : "중급 포션",
+        "Desc"          : "푸른색 빛을 띄고 있다. 사용 시 체력을 150 회복한다.",
+        "MaxStack"      : 10,
+        "UseFunc"       : "UseMidGradePotion",
+        "CanUseInven"   : true,
+        "IconPath"      : "/Game/Assets/Icon/40824.40824"
+    },  
+    {   
+        "Key"           : 3,
+        "Name"          : "상급 포션",
+        "Desc"          : "영롱한 빛을 띄고 있다. 사용 시 체력을 300 회복한다.",
+        "MaxStack"      : 5,
+        "UseFunc"       : "UseHighGradePotion",
+        "CanUseInven"   : true,
+        "IconPath"      : "/Game/Assets/Icon/44778.44778"
+    },  
+    {   
+        "Key"           : 4,
+        "Name"          : "귀환 주문서",
+        "Desc"          : "주문서에 특별한 기운이 느껴진다. 사용 시 중앙으로 이동한다.",
+        "MaxStack"      : 1,
+        "UseFunc"       : "UseReturnScroll",
+        "CanUseInven"   : true,
+        "IconPath"      : "/Game/Assets/Icon/49271.49271"
+    },  
+    {   
+        "Key"           : 5,
+        "Name"          : "부활 주문서",
+        "Desc"          : "주문서에 특별한 기운이 느껴진다. 캐릭터 사망 시 사용하여 즉시 부활이 가능하다.",
+        "MaxStack"      : 10,
+        "UseFunc"       : "UseRevivalScroll",
+        "CanUseInven"   : false,
+        "IconPath"      : "/Game/Assets/Icon/55316.55316"
+    }
+]
